@@ -1,2 +1,4 @@
 # notificator
 A simple console app to show toast notifications on Windows
+## Usage:
+    Notificator.exe "Some notification test" "Norification details text"
